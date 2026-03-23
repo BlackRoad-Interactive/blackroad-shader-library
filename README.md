@@ -1,3 +1,11 @@
+# blackroad-shader-library
+
+> GLSL shader collection and management system
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-Interactive](https://github.com/BlackRoad-Interactive)
+
+---
+
 # BlackRoad Shader Library
 
 GLSL shader collection and management system with code generation and validation.
